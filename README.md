@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 🩺 From the healthcare into the world of coding 🖥️
-- 🌱 I recently finished an exciting journey at a full-stack programming bootcamp
+- 🌱 Just completed an exciting journey at a full-stack programming bootcamp
 - 👀 Feel free to explore my repositories where I share things I'm learning and exploring
 - 📫 Interested in connecting? Reach out to me at filipabastos10@outlook.pt
 
